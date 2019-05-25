@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Larger LSTM Network to Generate Text for Alice in Wonderland
 import numpy
 from keras.models import Sequential
